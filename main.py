@@ -1,3 +1,5 @@
 print("Hello")
 print("Yo Beki")
 print("Yo3")
+print(11)
+print("ffff")
